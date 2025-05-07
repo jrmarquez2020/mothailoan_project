@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "412146950259",
+    "project_id": "mothailoan",
+    "storage_bucket": "mothailoan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412146950259:android:8f1597134c69d014f18a06",
+        "android_client_info": {
+          "package_name": "com.example.mothailoan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKg2f_o1mJWtqU-GJWLAvwMIZ7hq0YKpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412146950259:android:ed1b82db2d6956e6f18a06",
+        "android_client_info": {
+          "package_name": "com.example.mothailoan_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKg2f_o1mJWtqU-GJWLAvwMIZ7hq0YKpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412146950259:android:bc164755fd67be58f18a06",
+        "android_client_info": {
+          "package_name": "com.example.motorloan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKg2f_o1mJWtqU-GJWLAvwMIZ7hq0YKpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
